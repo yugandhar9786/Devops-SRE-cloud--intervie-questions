@@ -1,0 +1,30 @@
+🔹 AWS Networking & Security
+ 1️⃣ What is a VPC (Virtual Private Cloud), and why is it important?
+ 2️⃣ What is the difference between Public and Private Subnets?
+ 3️⃣ What is a NAT Gateway, where should it be configured (public/private subnet), and how do you verify if a subnet has internet access?
+ 4️⃣ What is Route 53 (R53), and how does it help in DNS management?
+ 5️⃣ What are the different AWS Routing Policies, and when should you use each?
+ 6️⃣ NACL vs. Security Groups – What are the key differences?
+ 7️⃣ What is the difference between Stateless vs. Stateful security in AWS?
+ 8️⃣ If a Security Group only allows outbound traffic, what happens to inbound requests?
+ 9️⃣ If a Network ACL (NACL) allows both inbound and outbound traffic, why does it still require explicit rules?
+
+ 🔹 AWS Services & Infrastructure Management
+ 🔟 What is an Origin in AWS, and how does it relate to a CDN?
+ 1️⃣1️⃣ What is a CDN (Content Delivery Network), and how does it improve performance?
+ 1️⃣2️⃣ Where are NAT Gateway & Internet Gateway (IGW) located, and what are their specific use cases?
+ 1️⃣3️⃣ What are AWS Lambda Layers, and how do they improve function management?
+
+ 🔹 Terraform & Infrastructure as Code (IaC)
+ 1️⃣4️⃣ What is Terraform, and why is managing dependencies important?
+ 1️⃣5️⃣ Explain the Terraform Workflow step by step.
+ 1️⃣6️⃣ What is a Terraform State File, and why is it essential?
+ 1️⃣7️⃣ If a Terraform State File is deleted, how can you recover it?
+ 1️⃣8️⃣ What is Terraform Import, and why do we use it?
+ 1️⃣9️⃣ What is a Remote Backend in Terraform, and what are its advantages?
+
+ 🔹 DevOps & CI/CD
+2️⃣0️⃣ What is the difference between Git, GitHub, and GitLab?
+ 2️⃣1️⃣ What CI/CD Pipelines do you use in your projects?
+ 2️⃣2️⃣ What factors affect the execution time of your CI/CD pipeline?
+ 2️⃣3️⃣ Explain the Jenkins Workflow and its key stages.
