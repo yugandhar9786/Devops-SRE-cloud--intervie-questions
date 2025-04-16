@@ -1,0 +1,22 @@
+1. What is a Pod in Kubernetes? Create a pod.yaml for a single-container pod running Nginx.
+2. What is a Deployment in Kubernetes? Write a deployment.yaml for deploying 3 replicas of an Nginx container.
+3. What is a Service in Kubernetes, and what are the types of Services?
+4. When would you use each type of Kubernetes Service (ClusterIP, NodePort, LoadBalancer, ExternalName)?
+5. Write a simple Terraform script to provision a virtual machine on AWS.
+6. Explain port, targetPort, and nodePort in a Kubernetes service.
+7. How would you expose a Kubernetes application externally?
+8. What is Helm, and what are its components (Chart, Repository, Release)?
+9. What is the difference between EXPOSE in a Dockerfile and docker run -p?
+10. How do you run Nginx on a Linux server using Docker?
+11. Explain HTTP, HTTPS, TCP, and UDP with examples.
+12. What is a Dockerfile? Write a basic Dockerfile for a Node.js application.
+13. What is a base image in Docker? Which base image would you use for Python or Node.js?
+14. How do you check for open ports on a Linux system?
+15. What are the benefits of using a firewall?
+16. What is the use of Ingress and Ingress Controller in Kubernetes?
+17. Explain the Kubernetes controllers: Deployment, StatefulSet, ReplicaSet, and DaemonSet.
+18. What is the difference between Deployment and ReplicaSet?
+19. What are Kubernetes Probes (Liveness, Readiness, Startup)?
+20. What is the difference between Stateful and Stateless applications? Give examples.
+21. What are Namespaces in Kubernetes?
+22. What is Port Forwarding in Kubernetes?
